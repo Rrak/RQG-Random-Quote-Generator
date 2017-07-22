@@ -2,6 +2,7 @@
 
 <html>
   <head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   </head>    
   <body>
     <p>Simple quote generator which generates new quote with on click event initiated by user, it uses QoD[Quotes on Design API] which acquires data in JSON format.</p>
