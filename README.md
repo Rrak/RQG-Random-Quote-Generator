@@ -1,11 +1,9 @@
 # RQG-Random-Quote-Generator
 
-<!DOCTYPE html>
-  <html>
-    <head>
-    
-    </head>    
-   <body>
+<html>
+  <head>
+  </head>    
+  <body>
     <p>Simple quote generator which generates new quote with on click event initiated by user, it uses QoD[Quotes on Design API] which acquires data in JSON format.</p>
 
     <h4 color: #bbb> Built Using
