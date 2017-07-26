@@ -8,3 +8,5 @@ Simple quote generator which generates new quote with on click event initiated b
     Font-Awesome <br>
     Twitter API <br>
     QoD API
+    
+ <h1> Check it here <a href="https://htmlpreview.github.io/?https://github.com/Rrak/RQG-Random-Quote-Generator/blob/master/index.html">Quote generator</a>
